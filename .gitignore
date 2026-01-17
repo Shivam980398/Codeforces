@@ -1,0 +1,18 @@
+# Compiled source files
+*.exe       # Windows executables
+*.out       # Linux/Unix executables
+*.o         # Object files
+*.obj       # MSVC object files
+
+# Libraries
+*.lib
+*.a
+*.so
+*.dll
+
+# Build directories
+/build/
+bin/
+
+# Ignore VS Code settings
+.vscode/

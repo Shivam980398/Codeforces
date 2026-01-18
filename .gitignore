@@ -1,8 +1,5 @@
-# Compiled source files
-*.exe       # Windows executables
-*.out       # Linux/Unix executables
-*.o         # Object files
-*.obj       # MSVC object files
+#executable
+*.exe
 
 # Libraries
 *.lib
